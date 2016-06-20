@@ -1,5 +1,6 @@
 package algorithm;
 
+import java.util.Arrays;
 import java.util.Vector;
 
 public class Algorithm_201605 {
